@@ -1,5 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;600;700&display=swap");
 
+html {
+	padding: 0;
+	margin: 0;
+}
 body {
 	background: #f2f2f2;
 	color: #333;
@@ -34,11 +38,4 @@ footer {
 	margin-top: 60px;
 	color: #777;
 	border-top: 1px solid #eaeaea;
-}
-
-.not-found {
-	text-align: center;
-}
-.not-found a {
-	text-decoration: underline;
 }
